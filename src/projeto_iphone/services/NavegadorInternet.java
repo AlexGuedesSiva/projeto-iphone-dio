@@ -1,7 +1,7 @@
-package projeto_iphone.model;
+package projeto_iphone.services;
 
 
-import projeto_iphone.model.imp.InterfaceNavegadorInternet;
+import projeto_iphone.services.imp.InterfaceNavegadorInternet;
 
 /**
  * Esta classe representa um navegador de internet que implementa a interface InterfaceNavegadorInternet.

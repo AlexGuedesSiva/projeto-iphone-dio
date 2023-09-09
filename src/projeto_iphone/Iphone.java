@@ -1,8 +1,8 @@
 package projeto_iphone;
 
-import projeto_iphone.model.AparelhoTelefonico;
-import projeto_iphone.model.NavegadorInternet;
-import projeto_iphone.model.ReprodutorDeMusica;
+import projeto_iphone.services.AparelhoTelefonico;
+import projeto_iphone.services.NavegadorInternet;
+import projeto_iphone.services.ReprodutorDeMusica;
 
 /**
  * Esta classe representa um modelo simplificado de um iPhone, que possui

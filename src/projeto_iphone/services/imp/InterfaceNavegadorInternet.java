@@ -1,4 +1,4 @@
-package projeto_iphone.model.imp;
+package projeto_iphone.services.imp;
 
 public interface InterfaceNavegadorInternet {
 

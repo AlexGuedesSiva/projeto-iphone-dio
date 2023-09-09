@@ -1,7 +1,7 @@
-package projeto_iphone.model;
+package projeto_iphone.services;
 
 
-import projeto_iphone.model.imp.InterfaceAparelhoTelefonico;
+import projeto_iphone.services.imp.InterfaceAparelhoTelefonico;
 
 /**
  * Esta classe representa um aparelho telefônico que implementa a interface

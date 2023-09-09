@@ -1,6 +1,6 @@
-package projeto_iphone.model;
+package projeto_iphone.services;
 
-import projeto_iphone.model.imp.InterfaceReprodutorMusical;
+import projeto_iphone.services.imp.InterfaceReprodutorMusical;
 
 import java.util.ArrayList;
 import java.util.List;
