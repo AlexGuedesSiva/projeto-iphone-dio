@@ -1,5 +1,7 @@
 # Programa Simples de iPhone
 
+[UML](C:\Users\Alex\IdeaProjects\projeto-iphone-dio\diagrama_de_iphone.png).
+
 Este é um programa Java que simula um modelo simplificado de um iPhone. O programa inclui funcionalidades básicas, como fazer chamadas telefônicas, navegar na web e reproduzir música. Ele foi criado com o objetivo de demonstrar o uso de classes e interfaces em Java para fins didáticos.
 
 ## Pré-requisitos
